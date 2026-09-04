@@ -2,6 +2,6 @@
 doc
 app/Test/
 app/train/
-meta.csv
+Meta.csv
 Test.csv
 Train.csv
