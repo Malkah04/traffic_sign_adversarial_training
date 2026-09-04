@@ -1,0 +1,7 @@
+.venv
+doc
+app/Test/
+app/train/
+meta.csv
+Test.csv
+Train.csv
